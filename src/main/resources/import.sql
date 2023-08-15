@@ -6,7 +6,7 @@ INSERT INTO atividade (nome, descricao, preco, categoria_id) VALUES ('Oficina de
 
 INSERT INTO bloco (inicio, fim, atividade_id) VALUES ('2017-09-25 08:00:00', '2017-09-25 11:00:00', 1); 
 INSERT INTO bloco (inicio, fim, atividade_id) VALUES ('2017-09-25 14:00:00', '2017-09-25 18:00:00', 2); 
-INSERT INTO bloco (inicio, fim, atividade_id) VALUES ('2017-09-26 14:00:00', '2017-09-26 18:00:00', 2); 
+INSERT INTO bloco (inicio, fim, atividade_id) VALUES ('2017-09-26 08:00:00', '2017-09-26 11:00:00', 2); 
 
 INSERT INTO participante (nome, email) VALUES ('José Silva', 'jose@gmail.com');
 INSERT INTO participante (nome, email) VALUES ('Tiago Faria', 'tiago@gmail.com');
